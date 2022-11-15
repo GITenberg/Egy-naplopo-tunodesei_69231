@@ -1,0 +1,51 @@
+_repo: Egy-naplopo-tunodesei_69231
+_version: 0.0.1
+alternative_title: The second thoughts of an idle fellow. Hungarian
+contributor:
+  translators:
+  - agent_name: Karinthy, Emma
+    gutenberg_agent_id: '55175'
+    url: http://www.gutenberg.org/2009/agents/55175
+  - agent_name: Karinthy, Frigyes
+    alias: Karinthy, Friedrich
+    birthdate: 1887
+    deathdate: 1938
+    gutenberg_agent_id: '40760'
+    url: http://www.gutenberg.org/2009/agents/40760
+    wikipedia: https://hu.wikipedia.org/wiki/Karinthy_Frigyes
+creator:
+  author:
+    agent_name: Jerome, Jerome K. (Jerome Klapka)
+    alias: Jerome, Jerome Klapka
+    birthdate: 1859
+    deathdate: 1927
+    gutenberg_agent_id: '173'
+    url: http://www.gutenberg.org/2009/agents/173
+    wikipedia: https://en.wikipedia.org/wiki/Jerome_K._Jerome
+description: ''
+gutenberg_issued: '2022-10-25'
+identifiers:
+  gutenberg: '69231'
+language: hu
+pgterms:marc905: 20221017014853jerome
+pgterms:marc906: '1920'
+pgterms:marc907: hu
+production_note: Albert László from page images generously made available by the Hungarian
+  Electronic Library
+publication_note: 'Hungary: Világirodalom,1920.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English wit and humor'
+- !lcsh 'English essays -- Translations into Hungarian'
+- !lcc 'PR'
+- GITenberg
+tableOfContents: Hogy szánjuk el magunkat gyorsan? -- Mennyire hátrányos, ha nem azt
+  kapjuk, amit kértünk? -- Azon cselekedeteink kellő méltatása, miket véghezvinni
+  szándékoztunk -- Szerelmi bájital készitése, használatbavétele -- Rabszolgasor haszna,
+  gyönyörüségei -- Hogy bánjunk nőkkel? -- Törődj a magad dolgával -- Ne sokat nézelődj,
+  ha megugrani készülsz -- Sajátmagunk előkelőségéről -- Anyai érzés férfiakban --
+  Tanácsot nem tanácsos elfogadni -- Gyászinduló; meghalt a drótbáb.
+title: Egy naplopó tünődései
+url: http://www.gutenberg.org/ebooks/69231
