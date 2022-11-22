@@ -13,6 +13,9 @@ contributor:
     gutenberg_agent_id: '40760'
     url: http://www.gutenberg.org/2009/agents/40760
     wikipedia: https://hu.wikipedia.org/wiki/Karinthy_Frigyes
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Jerome, Jerome K. (Jerome Klapka)
@@ -23,6 +26,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/173
     wikipedia: https://en.wikipedia.org/wiki/Jerome_K._Jerome
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69231#Egy-naplopo-tunodesei
 gutenberg_issued: '2022-10-25'
 identifiers:
   gutenberg: '69231'
